@@ -1,5 +1,6 @@
-require('dotenv').config();
-const app = require('./index');
+// At the very top of server/index.js
+const path = require('path');
+require('dotenv').config({ path: path.resolve(__dirname, '../.env') });const app = require('./index');
 const PORT = process.env.PORT || 5000;
 
 // Start the server
