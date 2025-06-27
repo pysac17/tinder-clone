@@ -1,0 +1,18 @@
+{
+    "users": [],
+    "cats": [
+      {
+        "id": "1",
+        "name": "Whiskers",
+        "age": 2,
+        "breed": "Tabby",
+        "description": "Loves to cuddle and play with yarn",
+        "image": "https://placekitten.com/400/400",
+        "ownerId": "system"
+      }
+    ],
+    "userSessions": {},
+    "swipes": [],
+    "matches": [],
+    "messages": []
+  }
