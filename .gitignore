@@ -25,6 +25,6 @@ yarn-error.log*
 
 .env
 
-./server/.env
-./server/cat-tinder-d3cc9-firebase-adminsdk-fbsvc-54a0e718c4.json
-./server/db.json
+server/.env
+server/cat-tinder-d3cc9-firebase-adminsdk-fbsvc-54a0e718c4.json
+server/db.json
